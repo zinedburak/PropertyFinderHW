@@ -1,0 +1,21 @@
+package main
+
+// ---------------------------------------------------------
+// EXERCISE: Naked Expression
+//
+//  1. Try to type just "Hello" on a line.
+//  2. Do not use Println
+//  3. Observe the error
+//
+// ---------------------------------------------------------
+func main() {
+	// Uncomment the code to see the result
+
+	/*
+
+		"Hello"
+
+	*/
+
+	// Hello evaluated but not used error pops up
+}
